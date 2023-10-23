@@ -11,7 +11,7 @@ Git을 연습하고 공부하는 저장소입니다.
 | ----------- | ----------- |
 | 2023.10.15 | 2023.10.23 |
 
-<br><hr>
+<hr>
 
 > [!NOTE]
 > 공부한 내용은 <a href='https://soapy-evening-7db.notion.site/git-github-0d910fa7072d44469e8c22e5f5beea87?pvs=4'>노션</a>에 기록하였습니다. 
