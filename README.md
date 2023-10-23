@@ -1,6 +1,6 @@
 # Yalco_GitPractice
 
-팀 협업능력을 향상시키고자 인프런에서 **제대로 파는 Git & GitHub - by 얄코** 강의를 통해 
+팀 협업능력을 향상시키고자 인프런에서 **<a href='https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83/dashboard'>제대로 파는 Git & GitHub - by 얄코</a>** 강의를 통해 
 Git을 연습하고 공부하는 저장소입니다. 
 
 <br>
