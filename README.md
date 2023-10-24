@@ -15,3 +15,8 @@ Git을 연습하고 공부하는 저장소입니다.
 
 > [!NOTE]
 > 공부한 내용은 <a href='https://soapy-evening-7db.notion.site/git-github-0d910fa7072d44469e8c22e5f5beea87?pvs=4'>노션</a>에 기록하였습니다. 
+
+<br>
+
+> [!IMPORTANT]
+> <a href='https://github.com/wanghoreng/Yalco_GitPractice/files/13110423/Git.Github.certificate.pdf'>제대로 파는 Git & GitHub - by 얄코 수료증</a>
